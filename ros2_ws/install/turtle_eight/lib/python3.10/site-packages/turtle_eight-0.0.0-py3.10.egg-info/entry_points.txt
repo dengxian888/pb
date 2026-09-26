@@ -1,0 +1,3 @@
+[console_scripts]
+eight_control = turtle_eight.eight_control:main
+

@@ -1,0 +1,41 @@
+[0.313s] Invoking command in '/home/ljx/ros2_ws/src/turtle_eight': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ljx/ros2_ws/build/turtle_eight/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ljx/ros2_ws/install/turtle_eight/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_eight build --build-base /home/ljx/ros2_ws/build/turtle_eight/build install --record /home/ljx/ros2_ws/build/turtle_eight/install.log --single-version-externally-managed install_data
+[0.426s] running egg_info
+[0.427s] creating ../../build/turtle_eight/turtle_eight.egg-info
+[0.427s] writing ../../build/turtle_eight/turtle_eight.egg-info/PKG-INFO
+[0.427s] writing dependency_links to ../../build/turtle_eight/turtle_eight.egg-info/dependency_links.txt
+[0.427s] writing entry points to ../../build/turtle_eight/turtle_eight.egg-info/entry_points.txt
+[0.427s] writing requirements to ../../build/turtle_eight/turtle_eight.egg-info/requires.txt
+[0.427s] writing top-level names to ../../build/turtle_eight/turtle_eight.egg-info/top_level.txt
+[0.427s] writing manifest file '../../build/turtle_eight/turtle_eight.egg-info/SOURCES.txt'
+[0.428s] reading manifest file '../../build/turtle_eight/turtle_eight.egg-info/SOURCES.txt'
+[0.428s] writing manifest file '../../build/turtle_eight/turtle_eight.egg-info/SOURCES.txt'
+[0.428s] running build
+[0.428s] running build_py
+[0.428s] creating /home/ljx/ros2_ws/build/turtle_eight/build
+[0.428s] creating /home/ljx/ros2_ws/build/turtle_eight/build/lib
+[0.428s] creating /home/ljx/ros2_ws/build/turtle_eight/build/lib/turtle_eight
+[0.428s] copying turtle_eight/__init__.py -> /home/ljx/ros2_ws/build/turtle_eight/build/lib/turtle_eight
+[0.428s] copying turtle_eight/eight_control.py -> /home/ljx/ros2_ws/build/turtle_eight/build/lib/turtle_eight
+[0.428s] running install
+[0.428s] running install_lib
+[0.429s] creating /home/ljx/ros2_ws/install/turtle_eight/lib/python3.10/site-packages/turtle_eight
+[0.429s] copying /home/ljx/ros2_ws/build/turtle_eight/build/lib/turtle_eight/__init__.py -> /home/ljx/ros2_ws/install/turtle_eight/lib/python3.10/site-packages/turtle_eight
+[0.429s] copying /home/ljx/ros2_ws/build/turtle_eight/build/lib/turtle_eight/eight_control.py -> /home/ljx/ros2_ws/install/turtle_eight/lib/python3.10/site-packages/turtle_eight
+[0.429s] byte-compiling /home/ljx/ros2_ws/install/turtle_eight/lib/python3.10/site-packages/turtle_eight/__init__.py to __init__.cpython-310.pyc
+[0.429s] byte-compiling /home/ljx/ros2_ws/install/turtle_eight/lib/python3.10/site-packages/turtle_eight/eight_control.py to eight_control.cpython-310.pyc
+[0.429s] running install_data
+[0.429s] creating /home/ljx/ros2_ws/install/turtle_eight/share/ament_index
+[0.429s] creating /home/ljx/ros2_ws/install/turtle_eight/share/ament_index/resource_index
+[0.429s] creating /home/ljx/ros2_ws/install/turtle_eight/share/ament_index/resource_index/packages
+[0.429s] copying resource/turtle_eight -> /home/ljx/ros2_ws/install/turtle_eight/share/ament_index/resource_index/packages
+[0.429s] copying package.xml -> /home/ljx/ros2_ws/install/turtle_eight/share/turtle_eight
+[0.429s] creating /home/ljx/ros2_ws/install/turtle_eight/share/turtle_eight/config
+[0.430s] copying config/turtle_params.yaml -> /home/ljx/ros2_ws/install/turtle_eight/share/turtle_eight/config
+[0.430s] creating /home/ljx/ros2_ws/install/turtle_eight/share/turtle_eight/launch
+[0.430s] copying launch/turtle_eight_launch.py -> /home/ljx/ros2_ws/install/turtle_eight/share/turtle_eight/launch
+[0.430s] running install_egg_info
+[0.430s] Copying ../../build/turtle_eight/turtle_eight.egg-info to /home/ljx/ros2_ws/install/turtle_eight/lib/python3.10/site-packages/turtle_eight-0.0.0-py3.10.egg-info
+[0.431s] running install_scripts
+[0.441s] Installing eight_control script to /home/ljx/ros2_ws/install/turtle_eight/lib/turtle_eight
+[0.441s] writing list of installed files to '/home/ljx/ros2_ws/build/turtle_eight/install.log'
+[0.452s] Invoked command in '/home/ljx/ros2_ws/src/turtle_eight' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ljx/ros2_ws/build/turtle_eight/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ljx/ros2_ws/install/turtle_eight/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_eight build --build-base /home/ljx/ros2_ws/build/turtle_eight/build install --record /home/ljx/ros2_ws/build/turtle_eight/install.log --single-version-externally-managed install_data

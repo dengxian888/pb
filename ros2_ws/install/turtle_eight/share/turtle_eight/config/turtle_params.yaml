@@ -1,0 +1,6 @@
+turtle_eight_node: 
+  ros__parameters: 
+    linear_velocity: 0.6
+    angular_velocity: 0.5
+    eight_radius: 1.2
+    control_frequency: 100
